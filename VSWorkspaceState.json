@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "\\crop_yield",
+    "\\crop_yield\\app",
+    "\\crop_yield\\Data-processed",
+    "\\crop_yield\\Data-raw",
+    "\\crop_yield\\models",
+    "\\crop_yield\\notebooks"
+  ],
+  "PreviewInSolutionExplorer": false
+}
